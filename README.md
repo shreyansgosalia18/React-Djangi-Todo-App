@@ -1,9 +1,9 @@
 # React-Django-Todo-App
 This is a Todo application using React in the front end and Django framework in the backend
 
-First let's talk about the Techstack 
-In backend Django was used, I have used DjangoRestFrameork which helped in creation of API. 
-The Front-end is a simple react web application.
+First let's talk about the Techstack__ 
+In backend Django was used, I have used DjangoRestFrameork which helped in creation of API.__ 
+The Front-end is a simple react web application.__
 
 Now the functionlity, 
 We can create a task, update it using edit button and delete it usnig '-' buttom. 
